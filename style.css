@@ -8,10 +8,7 @@ h1 {
   color: grey
 }
 
-ul {
-  text-align: center;
-  color: grey
-}
+
 p {
   text-align: center;
   color: grey
@@ -32,4 +29,14 @@ p {
   margin-right: auto;
   margin-top: 50px;
 
+}
+#image {
+  max-height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 20px;
+}
+#button{
+  text-align: center;
 }
