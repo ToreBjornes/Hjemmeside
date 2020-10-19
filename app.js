@@ -16,7 +16,7 @@ var images = [
   },
   {
     link: "image/img_02.jpg",
-    text: "Ladys section"
+    text: "Ladies section"
   },
   {
     link: "image/img_03.jpg",
